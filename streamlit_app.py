@@ -80,8 +80,8 @@ OCCUPATION_OPTIONS = {
 INDUSTRY_OPTIONS = {
     "": None,
     "Finance": "finance",
-    "Medical": "medical",
-    "Education": "education",
+    "Medical": "Medical",
+    "Education": "Education",
     "Public administration": "publicadmin",
     "Professional services": "professional",
     "Durable manufacturing": "durables",
@@ -89,11 +89,11 @@ INDUSTRY_OPTIONS = {
     "Retail trade": "retailtrade",
     "Wholesale trade": "wholesaletrade",
     "Transport (industry)": "transport_ind",
-    "Utilities": "utilities",
-    "Communications": "communications",
-    "Social / Arts / Other services": "socartother",
+    "Utilities": "Utilities",
+    "Communications": "Communications",
+    "Social / Arts / Other services": "SocArtOther",
     "Hotels and restaurants": "hotelsrestaurants",
-    "Agriculture": "agriculture",
+    "Agriculture": "Agriculture",
     "Mining and construction": "miningconstruction",
 }
 

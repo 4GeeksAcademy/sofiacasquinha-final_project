@@ -1,2 +1,25 @@
-data/CurrentPopulationSurvey.csv
-data/sql_cps_database.db
+# virtual environments
+.venv/
+venv/
+env/
+
+# editors & IDEs
+.vscode/
+.idea/
+
+# system files
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# large data (raw files not tracked)
+data/*.csv
+data/*.db
+
+# local development artifacts
+*.log
