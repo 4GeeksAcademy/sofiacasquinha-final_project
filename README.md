@@ -40,7 +40,7 @@ This produces a **clean and reproducible dataset** for inference and modeling.
 
 A simplified **Blau & Kahn decomposition** is implemented using OLS.
 
-### **Model A — Job Factors Only**
+### **Model A: Job Factors Only**
 Controls include:
 - Education  
 - Potential experience  
@@ -50,7 +50,7 @@ Controls include:
 
 **R² ≈ 0.40**
 
-### **Model B — Job Factors + Gender**
+### **Model B: Job Factors + Gender**
 Adds only a `female` indicator.
 
 - Coefficient: **–0.2097**
