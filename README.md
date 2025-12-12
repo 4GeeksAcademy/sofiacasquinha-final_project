@@ -110,6 +110,7 @@ Artifacts used:
 
 Run the Streamlit app:
 
+pip install -r requirements.txt
 `streamlit run streamlit_app.py`
 
 ## 6. Repository Structure
