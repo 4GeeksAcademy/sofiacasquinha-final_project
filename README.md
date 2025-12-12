@@ -112,22 +112,25 @@ Run the Streamlit app:
 
 `streamlit run streamlit_app.py`
 
-7. Repository Structure
+## 6. Repository Structure
+
+```text
 notebooks/
-    1_sql_build.ipynb
-    2_eda_and_stats.ipynb
-    3_gender_gap_inference.ipynb
-    4_ml_model.ipynb
+  1_sql_build.ipynb
+  2_eda_and_stats.ipynb
+  3_gender_gap_inference.ipynb
+  4_ml_model.ipynb
 
 sql/
-    01_load_curate.sql
+  01_load_curate.sql
 
 artifacts/
-    ridge_model.pkl
-    feature_list.json
-    model_metrics.json
-    inference_metrics.json
+  ridge_model.pkl
+  feature_list.json
+  model_metrics.json
+  inference_metrics.json
 
 streamlit_app.py
 requirements.txt
 README.md
+
